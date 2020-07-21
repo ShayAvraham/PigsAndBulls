@@ -1,0 +1,7 @@
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\C19 Ex05 DanielKahalani 204463624 ShayAvraham 312531023\PigsAndBullsLogic\bin\Debug\PigsAndBullsLogic.dll.config
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\C19 Ex05 DanielKahalani 204463624 ShayAvraham 312531023\PigsAndBullsLogic\bin\Debug\PigsAndBullsLogic.dll
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\C19 Ex05 DanielKahalani 204463624 ShayAvraham 312531023\PigsAndBullsLogic\bin\Debug\PigsAndBullsLogic.pdb
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\C19 Ex05 DanielKahalani 204463624 ShayAvraham 312531023\PigsAndBullsLogic\obj\Debug\PigsAndBullsLogic.csprojAssemblyReference.cache
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\C19 Ex05 DanielKahalani 204463624 ShayAvraham 312531023\PigsAndBullsLogic\obj\Debug\PigsAndBullsLogic.csproj.CoreCompileInputs.cache
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\C19 Ex05 DanielKahalani 204463624 ShayAvraham 312531023\PigsAndBullsLogic\obj\Debug\PigsAndBullsLogic.dll
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\C19 Ex05 DanielKahalani 204463624 ShayAvraham 312531023\PigsAndBullsLogic\obj\Debug\PigsAndBullsLogic.pdb

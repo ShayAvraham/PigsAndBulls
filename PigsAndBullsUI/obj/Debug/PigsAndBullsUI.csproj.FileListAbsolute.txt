@@ -1,0 +1,16 @@
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\C19 Ex05 DanielKahalani 204463624 ShayAvraham 312531023\PigsAndBullsUI\bin\Debug\PigsAndBullsUI.exe.config
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\C19 Ex05 DanielKahalani 204463624 ShayAvraham 312531023\PigsAndBullsUI\bin\Debug\PigsAndBullsUI.exe
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\C19 Ex05 DanielKahalani 204463624 ShayAvraham 312531023\PigsAndBullsUI\bin\Debug\PigsAndBullsUI.pdb
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\C19 Ex05 DanielKahalani 204463624 ShayAvraham 312531023\PigsAndBullsUI\bin\Debug\PigsAndBullsLogic.dll
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\C19 Ex05 DanielKahalani 204463624 ShayAvraham 312531023\PigsAndBullsUI\bin\Debug\PigsAndBullsLogic.pdb
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\C19 Ex05 DanielKahalani 204463624 ShayAvraham 312531023\PigsAndBullsUI\bin\Debug\PigsAndBullsLogic.dll.config
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\C19 Ex05 DanielKahalani 204463624 ShayAvraham 312531023\PigsAndBullsUI\obj\Debug\PigsAndBullsUI.csprojAssemblyReference.cache
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\C19 Ex05 DanielKahalani 204463624 ShayAvraham 312531023\PigsAndBullsUI\obj\Debug\PigsAndBullsUI.FormGame.resources
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\C19 Ex05 DanielKahalani 204463624 ShayAvraham 312531023\PigsAndBullsUI\obj\Debug\PigsAndBullsUI.FormPickColor.resources
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\C19 Ex05 DanielKahalani 204463624 ShayAvraham 312531023\PigsAndBullsUI\obj\Debug\PigsAndBullsUI.FormStartMenu.resources
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\C19 Ex05 DanielKahalani 204463624 ShayAvraham 312531023\PigsAndBullsUI\obj\Debug\PigsAndBullsUI.Properties.Resources.resources
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\C19 Ex05 DanielKahalani 204463624 ShayAvraham 312531023\PigsAndBullsUI\obj\Debug\PigsAndBullsUI.csproj.GenerateResource.cache
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\C19 Ex05 DanielKahalani 204463624 ShayAvraham 312531023\PigsAndBullsUI\obj\Debug\PigsAndBullsUI.csproj.CoreCompileInputs.cache
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\C19 Ex05 DanielKahalani 204463624 ShayAvraham 312531023\PigsAndBullsUI\obj\Debug\PigsAndBullsUI.csproj.CopyComplete
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\C19 Ex05 DanielKahalani 204463624 ShayAvraham 312531023\PigsAndBullsUI\obj\Debug\PigsAndBullsUI.exe
+C:\Users\shaya\Desktop\shay\לימודים\פרוייקטים לגיטאהב\C19 Ex05 DanielKahalani 204463624 ShayAvraham 312531023\PigsAndBullsUI\obj\Debug\PigsAndBullsUI.pdb
